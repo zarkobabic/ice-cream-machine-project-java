@@ -1,4 +1,3 @@
-![image](https://user-images.githubusercontent.com/92127059/148450153-77e28df1-818e-4c80-99ad-193cc2443e2e.png)
 
 # ice-cream-machine-project-java
 Project for Object Oriented Programming 2 class
@@ -62,3 +61,6 @@ Project for Object Oriented Programming 2 class
 •  <b><i>Сладоледџиница</i></b> је главни прозор апликације (са слике) који садржи апарат за точење и панел за 
 додавање новог укуса у апарат за точење. Боја укуса који се додаје се задаје у хексадецималном 
 формату.
+
+
+![image](https://user-images.githubusercontent.com/92127059/148450153-77e28df1-818e-4c80-99ad-193cc2443e2e.png)
